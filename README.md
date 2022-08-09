@@ -1,2 +1,2 @@
 # Causal-Reasoning-Courseworks
-University of Southampton - Causal Reasoning and Machine Learning (COMP3224) - Courseworks - 2021/2022
+This repository contains both Specifications and Handins for **Causal reasoning and Machine Learning** Courseworks
